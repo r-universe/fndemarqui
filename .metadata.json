@@ -1,0 +1,22 @@
+[
+  {
+    "package": "bellreg",
+    "oncran": true
+  },
+  {
+    "package": "covid19br",
+    "oncran": true
+  },
+  {
+    "package": "peppm",
+    "oncran": true
+  },
+  {
+    "package": "YPBP",
+    "oncran": true
+  },
+  {
+    "package": "YPPE",
+    "oncran": true
+  }
+]
