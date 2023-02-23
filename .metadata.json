@@ -4,10 +4,6 @@
     "oncran": true
   },
   {
-    "package": "covid19br",
-    "oncran": true
-  },
-  {
     "package": "peppm",
     "oncran": true
   },
@@ -18,5 +14,8 @@
   {
     "package": "YPPE",
     "oncran": true
+  },
+  {
+    "package": "covid19br"
   }
 ]
