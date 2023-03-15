@@ -3,11 +3,6 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
-[submodule "peppm"]
-	path = peppm
-	url = https://github.com/fndemarqui/peppm
-	shallow = true
-	registered = true
 [submodule "bellreg"]
 	path = bellreg
 	url = https://github.com/fndemarqui/bellreg
@@ -16,6 +11,11 @@
 [submodule "covid19br"]
 	path = covid19br
 	url = https://github.com/fndemarqui/covid19br
+	shallow = true
+	registered = true
+[submodule "peppm"]
+	path = peppm
+	url = https://github.com/fndemarqui/peppm
 	shallow = true
 	registered = true
 [submodule "YPBP"]
