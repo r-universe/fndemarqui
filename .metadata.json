@@ -1,11 +1,14 @@
 [
   {
+    "package": "peppm",
+    "oncran": true
+  },
+  {
     "package": "bellreg",
     "oncran": true
   },
   {
-    "package": "peppm",
-    "oncran": true
+    "package": "covid19br"
   },
   {
     "package": "YPBP",
@@ -14,8 +17,5 @@
   {
     "package": "YPPE",
     "oncran": true
-  },
-  {
-    "package": "covid19br"
   }
 ]
