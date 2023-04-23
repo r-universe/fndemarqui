@@ -8,11 +8,6 @@
 	url = https://github.com/fndemarqui/bellreg
 	shallow = true
 	registered = true
-[submodule "covid19br"]
-	path = covid19br
-	url = https://github.com/fndemarqui/covid19br
-	shallow = true
-	registered = true
 [submodule "peppm"]
 	path = peppm
 	url = https://github.com/fndemarqui/peppm
