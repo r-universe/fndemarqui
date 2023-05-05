@@ -13,6 +13,11 @@
 	url = https://github.com/fndemarqui/peppm
 	shallow = true
 	registered = true
+[submodule "survstan"]
+	path = survstan
+	url = https://github.com/fndemarqui/survstan
+	shallow = true
+	registered = true
 [submodule "YPBP"]
 	path = YPBP
 	url = https://github.com/fndemarqui/ypbp
