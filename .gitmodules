@@ -2,6 +2,12 @@
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
 	branch = HEAD
+[submodule "YPBP"]
+	path = YPBP
+	url = https://github.com/fndemarqui/ypbp
+[submodule "YPPE"]
+	path = YPPE
+	url = https://github.com/fndemarqui/yppe
 [submodule "bellreg"]
 	path = bellreg
 	url = https://github.com/fndemarqui/bellreg
@@ -14,9 +20,3 @@
 [submodule "survstan"]
 	path = survstan
 	url = https://github.com/fndemarqui/survstan
-[submodule "YPBP"]
-	path = YPBP
-	url = https://github.com/fndemarqui/ypbp
-[submodule "YPPE"]
-	path = YPPE
-	url = https://github.com/fndemarqui/yppe
