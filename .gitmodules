@@ -17,6 +17,9 @@
 [submodule "peppm"]
 	path = peppm
 	url = https://github.com/fndemarqui/peppm
+[submodule "rsurv"]
+	path = rsurv
+	url = https://github.com/fndemarqui/rsurv
 [submodule "survstan"]
 	path = survstan
 	url = https://github.com/fndemarqui/survstan
