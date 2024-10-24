@@ -1,8 +1,0 @@
-[
-  {
-    "package": "bellreg",
-    "url": "https://github.com/fndemarqui/bellreg",
-    "via": ["rsurv"],
-    "from": "rsurv"
-  }
-]
