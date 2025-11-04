@@ -11,9 +11,6 @@
 [submodule "bellreg"]
 	path = bellreg
 	url = https://github.com/fndemarqui/bellreg
-[submodule "covid19br"]
-	path = covid19br
-	url = https://github.com/fndemarqui/covid19br
 [submodule "peppm"]
 	path = peppm
 	url = https://github.com/fndemarqui/peppm
