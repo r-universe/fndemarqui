@@ -1,0 +1,10 @@
+{
+  "id": 115406625,
+  "created_at": "2026-03-10T17:09:38.000Z",
+  "repository_selection": "selected",
+  "permissions": {
+    "metadata": "read",
+    "statuses": "write"
+  },
+  "repositories": ["ufmgthesis"]
+}
