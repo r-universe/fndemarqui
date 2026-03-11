@@ -2,12 +2,33 @@
 	path = .registry
 	url = https://github.com/fndemarqui/fndemarqui.r-universe.dev
 	branch = HEAD
+[submodule "YPBP"]
+	path = YPBP
+	url = https://github.com/fndemarqui/YPBP
+[submodule "YPPE"]
+	path = YPPE
+	url = https://github.com/fndemarqui/YPPE
+[submodule "bellreg"]
+	path = bellreg
+	url = https://github.com/fndemarqui/bellreg
+[submodule "covid19br"]
+	path = covid19br
+	url = https://github.com/fndemarqui/covid19br
+[submodule "peppm"]
+	path = peppm
+	url = https://github.com/fndemarqui/peppm
 [submodule "planex"]
 	path = planex
 	url = https://github.com/fndemarqui/planex
 [submodule "reglin"]
 	path = reglin
 	url = https://github.com/fndemarqui/reglin
+[submodule "rsurv"]
+	path = rsurv
+	url = https://github.com/fndemarqui/rsurv
+[submodule "survstan"]
+	path = survstan
+	url = https://github.com/fndemarqui/survstan
 [submodule "ufmgthesis"]
 	path = ufmgthesis
 	url = https://github.com/fndemarqui/ufmgthesis
